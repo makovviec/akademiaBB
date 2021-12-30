@@ -1,0 +1,5 @@
+{% if product.color is not null %}
+    <div class="ui segment">
+        <p>Color: <i class="icon square {{product.color}} "></i>{{ product.color|capitalize }}</p>
+    </div>
+{% endif %}
