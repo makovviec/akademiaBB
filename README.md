@@ -1,4 +1,4 @@
 # akademiaBB
-Respozytorium dla kursu w Akademii BitBag
+Repozytorium dla kursu w Akademii BitBag
 
-Plik do edycji...
+jestes w main, a powinienes szukać master :)
